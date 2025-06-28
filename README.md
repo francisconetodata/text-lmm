@@ -1,3 +1,6 @@
+# Treinando com textos IA 
+
+
 ### ✨ **Interface Web Completa**
 - **Dashboard interativo** com Streamlit
 - **Gráficos e estatísticas** em tempo real
