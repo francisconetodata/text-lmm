@@ -76,22 +76,4 @@ streamlit run advanced_document_ai.py
 - "Precedentes sobre direito adquirido"
 - "Prazo para contestação em processo civil"
 
-### **🏥 Prontuários Médicos**
-- Históricos, exames, relatórios
-- "Pacientes com histórico de diabetes"
-- "Protocolos para cirurgia cardíaca"
 
-## 🎉 **Principais vantagens:**
-
-✅ **100% gratuito** - todos os pacotes são open source  
-✅ **100% local** - seus dados ficam no seu computador  
-✅ **Interface linda** - parece software profissional  
-✅ **Super rápido** - busca em milhares de docs instantaneamente  
-✅ **Inteligente** - entende o significado, não só palavras  
-✅ **Configurável** - adapta-se ao seu uso específico  
-✅ **Estatísticas** - vê como sua base está crescendo  
-✅ **Multi-idioma** - português, inglês, espanhol  
-
-Este sistema agora compete com soluções pagas como Notion AI, Obsidian com plugins premium, ou sistemas enterprise de knowledge management - mas é **completamente gratuito** e roda no seu computador!
-
-Quer que eu explique alguma parte específica ou ajude com alguma customização?
